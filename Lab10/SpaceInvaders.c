@@ -2,8 +2,9 @@
 // Runs on LM4F120/TM4C123
 // Jonathan Valvano and Daniel Valvano
 // This is a starter project for the EE319K Lab 10
+// Modified by Vivian Tan and Carly Stalder
 
-// Last Modified: 3/6/2015 
+// Last Modified: 3/9/2016 
 // http://www.spaceinvaders.de/
 // sounds at http://www.classicgaming.cc/classics/spaceinvaders/sounds.php
 // http://www.classicgaming.cc/classics/spaceinvaders/playguide.php
