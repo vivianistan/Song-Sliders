@@ -1,4 +1,7 @@
 // SpaceInvaders.c
+
+//should probably change name to SongSliders.c
+
 // Runs on LM4F120/TM4C123
 // Jonathan Valvano and Daniel Valvano
 // This is a starter project for the EE319K Lab 10
@@ -114,7 +117,7 @@ uint32_t Dreamtempo = 20000000;
 uint32_t songLength = 29; 
 
 
-
+//should probably put these in another file 
 
 //*************************Structs/Enums*****************************//
 	
