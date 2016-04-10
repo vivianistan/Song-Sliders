@@ -1,6 +1,8 @@
 //SongNotes.c
 //copy of song structs
 
+//songs that loop infinitely 
+
 struct note{
 	char name;
 	uint32_t time;
