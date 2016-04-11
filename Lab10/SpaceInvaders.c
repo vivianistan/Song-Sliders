@@ -644,7 +644,7 @@ uint16_t noteLocations [9] = {3, 5, 7, 9, 11, 13, 15, 17, 19};
 
 
 
-
+//put these in another file as well? 
 //*******************************************Other************************************************//
 
 //converts ADC to position on screen
