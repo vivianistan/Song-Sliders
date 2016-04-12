@@ -1,3 +1,8 @@
+//ScreenNotes.c
+//file with definitions for various screen stuff
+//need to make .h with declarations? 
+//and check for variables 
+
 uint32_t ADC_Convert(uint32_t input){		//from ADC value to position in FP	
 	uint32_t pos; 
 	pos = (1638*input + 692224);		//pos = (num*input); (pixel location?) 
