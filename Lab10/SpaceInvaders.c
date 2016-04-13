@@ -730,6 +730,7 @@ void printLives(void){
 //plays the next note in the song
 //goes to systick? 
 
+//put these in a different file as well?? 
 void PlaySong(void){
 	
 	//last note of song won't play? 
