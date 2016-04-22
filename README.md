@@ -10,10 +10,15 @@ Song loops infinitely, getting progressively faster, until the alien runs out of
 Needs quite a bit of file cleanup. 
 
 The following updates would be nice: (increasing difficulty?)
+
   -Add unique graphics to song screens (bit maps?)
+
   -Change note symbol based on song (sub for other chars/bitmaps)
+
   -Have the game loop back to Start after GAME OVER 
+
   -have note positions based on note pitch rather than random (big change)
+
   -Make songs longer/have an end instead of looping infinitely?
   
   
