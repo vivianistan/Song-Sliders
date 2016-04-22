@@ -2,6 +2,8 @@
 
 //should probably change name to SongSliders.c
 
+//WARNING: File is super long and not pretty. Needs clean up. 
+
 // Runs on LM4F120/TM4C123
 // Jonathan Valvano and Daniel Valvano
 // This is a starter project for the EE319K Lab 10
