@@ -1,6 +1,8 @@
 # Song-Sliders
 A game written for EE 319K by CS and VT
 
+*If you are taking the class now, please do not use this code. Come up with your own, it will be more fun.*
+
 Simple game in which an alien slides across the screen in order to catch notes
 
 When a note is caught by the alien, the next note in a selected song will play
